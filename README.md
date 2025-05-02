@@ -26,7 +26,7 @@ public_ip_address = "YOUR_PUBLIC_IP"
 
 ## 📸 Screenshot
 
-![Terraform Apply Output](./screenshots.screenshot.png)
+![Terraform Apply Output](./screenshots/screenshot.png)
 
 ## 🧠 Knowledge Check
 
